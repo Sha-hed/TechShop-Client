@@ -9,3 +9,11 @@ Features and Functionality:
  4) Add to Cart Option
 
 TechShop blends seamless navigation with robust management tools, ensuring a hassle-free tech shopping experience tailored to your needs.
+
+Technology Used in this Project:
+
+MongoDB, ExpressJS, ReactJS, NodeJS, Firebase, TailwindCSS, CSS, HTML
+
+What to Do to Run This Project:
+
+To run this project, you need to install the necessary npm packages and add Firebase secret keys.
