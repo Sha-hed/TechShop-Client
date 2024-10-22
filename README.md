@@ -1,8 +1,11 @@
-# React + Vite
+TechShop offers a user-friendly platform to explore a diverse range of tech products, from essential gadgets to advanced components. With seamless navigation and detailed product insights, we make it easy to find, save, and purchase exactly what you need. Join our community and enjoy hassle-free tech shopping tailored to your needs.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features and Functionality:
+ 1) User and Admin Authentication
+ 2) Product Categories
+ 3) Search Functionality
+ 4) Add to Cart Option
 
-Currently, two official plugins are available:
+TechShop blends seamless navigation with robust management tools, ensuring a hassle-free tech shopping experience tailored to your needs.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live Link : https://techshop-34fe4.web.app
